@@ -5,7 +5,7 @@ Installation:
 
 1. download git https://www.vim.org/download.php
 
-2. Go to your home dir, e.g. C:\Users\<user>\
+2. Go to your home dir, e.g. 'C:\Users\username\'
 
 3. Place both _vimrc AND the vimfiles folder in the home dir
 
