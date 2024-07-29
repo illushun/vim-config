@@ -3,7 +3,7 @@ My current setup for vim
 
 Installation:
 
-1. download git https://www.vim.org/download.php
+1. download vim https://www.vim.org/download.php
 
 2. Go to your home dir, e.g. 'C:\Users\username\'
 
